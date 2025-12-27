@@ -1,0 +1,10 @@
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\bin\Debug\Satranc.exe.config
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\bin\Debug\Satranc.exe
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\bin\Debug\Satranc.pdb
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.csproj.AssemblyReference.cache
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.Form1.resources
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.Properties.Resources.resources
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.csproj.GenerateResource.cache
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.exe
+C:\Users\ardac\OneDrive\Masaüstü\Satranc\Satranc\obj\Debug\Satranc.pdb
