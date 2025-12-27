@@ -41,18 +41,21 @@ namespace Satranc
                     Button btn = new Button();
                     btn.Size = new Size(size, size);
                     btn.Location = new Point(j * size, i * size);
+                    btn.Font = new Font("Arial", 12, FontStyle.Bold);
                     btn.Tag = new Point(i, j);
                     btn.Click += Square_Click;
 
                     btn.BackColor = (i + j) % 2 == 0
-                        ? Color.White
-                        : Color.Black;
+                        ? Color.Beige
+                        : Color.SaddleBrown;
+
 
                     buttons[i, j] = btn;
                     Controls.Add(btn);
                 }
             }
         }
+
 
         void Square_Click(object sender, EventArgs e)
         {
@@ -77,8 +80,8 @@ namespace Satranc
                 chessBoard.Board[from.X, from.Y] = null;
 
                 selectedButton.BackColor = (from.X + from.Y) % 2 == 0
-                    ? Color.White
-                    : Color.Black;
+                    ? Color.Beige
+                    : Color.SaddleBrown;
 
                 selectedButton = null;
                 RefreshBoard();
