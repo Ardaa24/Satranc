@@ -8,5 +8,15 @@ namespace Satranc.Model
 {
     internal class Enums
     {
+        public enum PieceType
+        {
+            King, Queen, Rook, Bishop, Knight, Pawn
+        }
+
+        public enum PieceColor
+        {
+            White, Black
+        }
+
     }
 }
